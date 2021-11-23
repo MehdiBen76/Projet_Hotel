@@ -1,0 +1,17 @@
+<!--template>
+  <v-container>
+   <!--  <v-card>
+      <v-date-picker :value="null" color="red" is-dark is-range
+    /></v-card> -->
+    <!--v-card> <vc-calendar is-expanded title-position="center" :columns="$screens({ default: 1, lg: 2 })"/></v-card>
+  </v-container>
+</template>
+
+<script lang=ts>
+export default {
+  name: "projects",
+  components: {},
+  data: () => ({}),
+  computed: {},
+};
+</script--!>
